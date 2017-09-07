@@ -384,4 +384,9 @@ Playing nice with mixed memory models
 
 
 
+Worked Examples
+-----------------
+
+- [Wrapping a Library](jpeg_example/README.md)
+- [Using a Library - Hxcpp Direct](jpeg_app/JPegExample.hx)
 

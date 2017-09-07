@@ -1,5 +1,4 @@
 <xml>
-   <echo value="Jpeg!" />
 
    <files id="jpeg_headers" >
      <file name="config/jconfig.h" />
