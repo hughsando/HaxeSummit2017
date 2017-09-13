@@ -268,9 +268,13 @@ Playing nice with mixed memory models
 -------------------------------------
 
 >  All alone with my memory
+
 >  Of my days in the sun
+
 >  If you touch me
+
 >  You'll understand what happiness is
+
 >  Look a new GC collection cycle has begun
 
 
@@ -389,5 +393,5 @@ Worked Examples
 
 - [Wrapping a Library](jpeg_example/README.md)
 - [Using a Library - Hxcpp Direct](jpeg_app/JPegExample.hx)
-- [Creating External Toolchains](toolchains/READNME.hx)
+- [Creating External Toolchains](toolchains/README.md)
 
